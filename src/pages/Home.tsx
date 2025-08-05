@@ -14,13 +14,6 @@ const Home = () => {
 
   return (
     <div className="min-h-screen">
-      <Helmet>
-        <title>Elobchip | Semiconductor Solutions</title>
-        <meta
-          name="description"
-          content="Elobchip is India's fastest-growing VLSI design services company. Discover innovation, support, and growth."
-        />
-      </Helmet>
       {/* Hero Section */}
       <section
         className="relative min-h-screen flex items-center justify-center bg-cover bg-center bg-no-repeat"
